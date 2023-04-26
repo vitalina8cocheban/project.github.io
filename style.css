@@ -1,0 +1,66 @@
+body{
+    background: rgba(184, 174, 164, 1);
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 166px;
+    background: #AA9D94;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    width: 1440px;
+    height: 165px;
+    background: #9F8573;
+    display: flex;
+    justify-content: center;
+}
+
+ol{
+    width: 654px;
+    height: 46px;
+    left: 738px;
+    top: 63px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+.books{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+li{
+    color: whitesmoke;
+}
+.pride{
+    width: 250px;
+height: 223px;
+left: 720px;
+top: 348px;
+
+font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 45px;
+text-transform: capitalize;
+
+color: #000000;
+
+}
